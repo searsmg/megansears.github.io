@@ -1,10 +1,23 @@
 ---
-title: "megansears.github.io"
+title: "Megan Sears"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/searsmg
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=p7nBdxsAAAAJ
+    - text: ORCiD
+      href: https://orcid.org/0000-0002-0568-3408
+    - text: Email
+      href: mailto::megan.sears@colostate.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+PhD candidate in Watershed Science at Colorado State University
 
 ```{r}
 1 + 1
