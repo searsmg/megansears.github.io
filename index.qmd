@@ -7,15 +7,19 @@ about:
   image-shape: rounded
   image-width: 17em
   links:
-    - text: GitHub
+    - icon: github
       href: https://github.com/searsmg
-    - text: Google Scholar
+    - icon: google-scholar
       href: https://scholar.google.com/citations?hl=en&user=p7nBdxsAAAAJ
-    - text: ORCiD
+    - icon: orcid
       href: https://orcid.org/0000-0002-0568-3408
-    - text: Email
+    - icon: envelope
       href: mailto::megan.sears@colostate.edu
 ---
+
+# Test 
+
+## test 2
 
 PhD candidate in Watershed Science at Colorado State University
 
