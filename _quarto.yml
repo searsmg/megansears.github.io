@@ -5,19 +5,20 @@ project:
 website:
   title: "Megan Sears"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - publications.qmd
       - cv.qmd
+      
+  page-footer:
+    background: dark
+    left: Copyright 2025, Megan Sears
 
 format:
   html:
-    theme: 
-      light: minty
-      dark: solar
-    css: styles.css
+    theme: styles.scss
     toc: true
     page-layout: full
 
