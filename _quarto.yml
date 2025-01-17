@@ -10,7 +10,8 @@ website:
         text: Home
       - about.qmd
       - publications.qmd
-      - cv.qmd
+      - href: MeganSears_CV.pdf
+        text: 'CV'
       
   page-footer:
     background: dark
@@ -19,8 +20,10 @@ website:
 format:
   html:
     theme: styles.scss
+    mainfont: Inter
     toc: true
     page-layout: full
+    
 
 editor: visual
 
